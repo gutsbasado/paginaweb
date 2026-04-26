@@ -5,8 +5,8 @@ body {
 
 /* HEADER */
 header {
-    background: green;
-    color: white;
+    background: blue;
+    color: red;
     text-align: center;
     padding: 10px;
 }
@@ -43,7 +43,7 @@ section.active {
 /* ASIDE */
 aside {
     flex: 1;
-    background: lightgray;
+    background: gray;
     padding: 10px;
 }
 
